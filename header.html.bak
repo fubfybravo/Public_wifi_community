@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/mainstyle.css" type="text/css">
+ </head>
+ <body>
+	<!-- start header -->
+	<div id="header-wrapper" class="">
+		<div id="" class="header clear">
+			
+		<!-- menu -->
+		<div id="primary-menu" class="">
+			
+			<ul class="menu">
+				<li><a href="home.html">HOME</a></li>
+				<li><a href="register.html">REGISTER</a></li>
+				<li><a href="login.html">LOGIN</a></li>
+			</ul><!-- end ul -->
+
+		</div><!-- end primary-menu -->
+	
+	</div><!-- end header clear -->
+</div><!-- end header-wrapper -->
+<!-- end header -->
+
+
+
+
+
+
+
+
+
+
+
+
+ </body>
+</html>
